@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncBlogPost", "AsyncBlogPost\AsyncBlogPost.csproj", "{A077345E-8533-4A4C-B973-A7C69E4FB87C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCrashCourse", "TestAsyncCode\AsyncCrashCourse.csproj", "{DF4E0313-82A3-4315-BCEB-370318FB9B5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A077345E-8533-4A4C-B973-A7C69E4FB87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A077345E-8533-4A4C-B973-A7C69E4FB87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A077345E-8533-4A4C-B973-A7C69E4FB87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A077345E-8533-4A4C-B973-A7C69E4FB87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4E0313-82A3-4315-BCEB-370318FB9B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4E0313-82A3-4315-BCEB-370318FB9B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4E0313-82A3-4315-BCEB-370318FB9B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4E0313-82A3-4315-BCEB-370318FB9B5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
